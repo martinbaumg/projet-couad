@@ -1,0 +1,9 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Python (environnement PlatformIO local)
+.venv/
+
+# macOS
+.DS_Store
